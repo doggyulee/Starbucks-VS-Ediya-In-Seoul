@@ -20,3 +20,5 @@
 ✔ Visualizations
 
 <img width="729" alt="Screen Shot 2022-01-05 at 6 43 12 PM" src="https://user-images.githubusercontent.com/39496126/148212604-82ac7d1f-8f71-4355-95d8-535e5e8279a4.png">
+
+<img width="967" alt="Screen Shot 2022-01-05 at 6 48 22 PM" src="https://user-images.githubusercontent.com/39496126/148213003-8f6afeb2-c667-45d6-af8f-f9c914cdb57f.png">

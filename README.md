@@ -8,7 +8,7 @@
 ✔ Purpose
 - Ediya Coffee is sometimes questioned as to whether the store is located where the Starbucks coffee store is located. 
   In an official interview, Ediya Coffee Chairman denied this fact.
-- Is this correct ?
+- Is this real ? Let's analyse those locations of coffee shops on Python !
 
 ✔ Solutions
 - Extracting datasets on Starbucks Website for all locations of Starbucks & Ediay coffee shops in Seoul (Beautifulsoup)
